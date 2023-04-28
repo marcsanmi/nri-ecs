@@ -10,6 +10,10 @@ Unreleased section should follow
 
 ## Unreleased
 
+### breaking
+
+- Update workflow
+
 ## 1.9.7
 - Update to infrastructure-bundle 2.8.36 and dependencies
 
