@@ -15,5 +15,5 @@ jobs:
     uses: newrelic/newrelic-coreint-automation/.github/workflows/trigger_prerelease.yaml@main
     with:
       bot_token: "${{ secrets.COREINT_BOT_TOKEN }}"
-#      slack_channel: 'slack channel for sending a message in case of failure'
-#      slack_token: 'slack token for sending the above message'
+      slack_channel: 'fake_channel'
+      slack_token: 'fake_token'
