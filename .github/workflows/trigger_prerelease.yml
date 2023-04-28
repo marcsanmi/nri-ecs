@@ -12,7 +12,7 @@ on:
 jobs:
   prerelease:
 
-    uses: newrelic/newrelic-coreint-automation/.github/workflows/trigger_prerelease.yaml@v1
+    uses: newrelic/newrelic-coreint-automation/.github/workflows/trigger_prerelease.yaml@master
     with:
       bot_token: "${{ secrets.COREINT_BOT_TOKEN }}"
       slack_channel: 'fake_channel'
