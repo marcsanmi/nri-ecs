@@ -10,7 +10,9 @@ Unreleased section should follow
 
 ## Unreleased
 
-### enhancement
+## v2.1.0 - 2023-05-02
+
+### 🚀 Enhancements
 - New amazing feature
 
 ## v2.0.0 - 2023-05-02
