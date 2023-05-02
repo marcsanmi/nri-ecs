@@ -12,7 +12,7 @@ on:
 jobs:
   prerelease:
     uses: gsanchezgavier/testGHA/.github/workflows/trigger_prerelease.yaml@main
-    with:
+    secrets:
       bot_token: "${{ secrets.COREINT_BOT_TOKEN }}"
       slack_channel: "fake_channel"
       slack_token: "fake_token"
