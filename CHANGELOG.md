@@ -10,8 +10,9 @@ Unreleased section should follow
 
 ## Unreleased
 
-### breaking
+## v2.0.0 - 2023-05-02
 
+### ⚠️️ Breaking changes ⚠️
 - Update workflow
 
 ## 1.9.7
